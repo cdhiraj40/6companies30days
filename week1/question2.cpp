@@ -16,6 +16,6 @@ int main() {
     while (t--) {
         int p[2], q[2], r[2], s[2];
         cin >> p[0] >> p[1] >> q[0] >> q[1] >> r[0] >> r[1] >> s[0] >> s[1];
-        cout<<doOverlap(p, q, r, s);
+        cout<<doOverlap(p, q, r, s); 
     }
 }
