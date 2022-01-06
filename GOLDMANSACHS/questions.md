@@ -12,7 +12,7 @@ Program to find Nth Ugly Number.
            str3 such that str3 divides both str1 and str2.
 - [x] Find the kid which gets tha damaged toy
 - [ ] Total Decoding Messages 
-- [ ] Given a pattern containing only I's and D's. I for increasing and D 
+- [x] Given a pattern containing only I's and D's. I for increasing and D 
          for decreasing.Devise an algorithm to print the minimum number following
         that pattern.
 - [x] Find max 10 numbers in a list having 10M entries.
@@ -20,6 +20,6 @@ Program to find Nth Ugly Number.
          'A' from     set {1, 2, …N} is missing and one number 'B' 
         occurs twice in array. Find these two numbers.
 - [x] Find total number of Squares in a N*N chessboard
-- [ ] Decode the string
+- [x] Decode the string
 - [x] Minimum Size Subarray Sum
 - [x] Array Pair Sum Divisibility Problem
