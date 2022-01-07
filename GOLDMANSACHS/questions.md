@@ -11,7 +11,7 @@ eg if the input string is “wwwwaaadexxxxxx”, then the function should return
            if str2 does not divide str1, return -1. Otherwise, return the smallest string 
            str3 such that str3 divides both str1 and str2.
 - [x] Find the kid which gets tha damaged toy
-- [ ] Total Decoding Messages 
+- [x] Total Decoding Messages 
 - [x] Given a pattern containing only I's and D's. I for increasing and D 
          for decreasing.Devise an algorithm to print the minimum number following
         that pattern.
